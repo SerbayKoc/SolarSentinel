@@ -51,10 +51,10 @@ Tüm veriler açık erişimlidir. API anahtarı gerekmez.
 ## Teknik Yapı
 
 ```
-SolarSentielFixed.html          — Tek dosya uygulama (sıfır bağımlılık)
-├── Veri katmanı    — Fetch API ile NOAA/NASA uç noktaları
-├── Analiz katmanı  — Eşik tabanlı anomali tespiti ve olasılık hesabı
-└── Görsel katman   — Chart.js, saf HTML/CSS
+SolarSentielFixed.html   — Tek dosya uygulama (sıfır bağımlılık)
+├── Veri katmanı         — Fetch API ile NOAA/NASA uç noktaları
+├── Analiz katmanı       — Eşik tabanlı anomali tespiti ve olasılık hesabı
+└── Görsel katman        — Chart.js, saf HTML/CSS
 ```
 
 Harici bağımlılıklar: yalnızca `Chart.js` (grafik). Sunucu gerekmez, arka uç gerekmez. Tek HTML dosyası olarak çalışır.
