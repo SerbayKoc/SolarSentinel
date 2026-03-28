@@ -57,7 +57,7 @@ SolarSentinelFixed.html   — Tek dosya uygulama (sıfır bağımlılık)
 └── Görsel katman        — Chart.js, saf HTML/CSS
 ```
 
-Harici bağımlılıklar: yalnızca `Chart.js` (grafik). Sunucu gerekmez, arka uç gerekmez. Tek HTML dosyası olarak çalışır.
+Harici gereksinimler: yalnızca `Chart.js` (grafik). Sunucu gerekmez, backend gerekmez. Tek HTML dosyası olarak çalışır.
 
 Panel her 5 dakikada otomatik güncellenir.
 
