@@ -68,7 +68,7 @@ Panel her 5 dakikada otomatik güncellenir.
 ```bash
 git clone https://github.com/SerbayKoc/SolarSentinel.git
 cd SolarSentinel
-# index.html dosyasını tarayıcıda açın
+# SolarSentielFixed.html dosyasını tarayıcıda açın
 ```
 
 Ya da doğrudan GitHub Pages üzerinden:
