@@ -51,7 +51,7 @@ Tüm veriler açık erişimlidir. API anahtarı gerekmez.
 ## Teknik Yapı
 
 ```
-SolarSentielFixed.html   — Tek dosya uygulama (sıfır bağımlılık)
+SolarSentinelFixed.html   — Tek dosya uygulama (sıfır bağımlılık)
 ├── Veri katmanı         — Fetch API ile NOAA/NASA uç noktaları
 ├── Analiz katmanı       — Eşik tabanlı anomali tespiti ve olasılık hesabı
 └── Görsel katman        — Chart.js, saf HTML/CSS
@@ -68,7 +68,7 @@ Panel her 5 dakikada otomatik güncellenir.
 ```bash
 git clone https://github.com/SerbayKoc/SolarSentinel.git
 cd SolarSentinel
-# SolarSentielFixed.html dosyasını tarayıcıda açın
+# SolarSentinelFixed.html dosyasını tarayıcıda açın
 ```
 
 Ya da doğrudan GitHub Pages üzerinden:
